@@ -163,3 +163,8 @@ We've recently closed a [$38 million Series B funding round](https://techcrunch.
 Our APIs are used by more than a billion end-users, and you'll have a chance to make a huge impact on the product within a team of the strongest engineers all over the world.
 
 Check out our current openings and apply via [Stream's website](https://getstream.io/team/#jobs).
+
+## Technical debt links
+
+[Barometer IT](https://wolterskluwer.barometerit.com/b/system/041800002496)
+[SonarQube Project](https://sonarqube.cloud-dev.wolterskluwer.eu//dashboard?id=clearfacts%3Astream-chat-php)
