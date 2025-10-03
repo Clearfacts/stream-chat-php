@@ -167,4 +167,5 @@ Check out our current openings and apply via [Stream's website](https://getstrea
 ## Technical debt links
 
 [Barometer IT](https://wolterskluwer.barometerit.com/b/system/041800002496)
-[SonarQube Project](https://sonarqube.cloud-dev.wolterskluwer.eu//dashboard?id=clearfacts%3Astream-chat-php)
+[SonarQube Project](https://sonarqube.cloud-dev.wolterskluwer.eu/dashboard?id=clearfacts%3Astream-chat-php)
+[Black Duck Project](https://wolterskluwer.app.blackduck.com/api/projects/8c631e88-b7ea-43a7-8046-49c8c724a677)
